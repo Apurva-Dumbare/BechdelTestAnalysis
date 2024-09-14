@@ -1,4 +1,4 @@
-# BechdelTestAnalysisBechdel-Test: Data Analysis of Gender Disparity in Hollywood
+# Bechdel-Test: Data Analysis of Gender Disparity in Hollywood
 # Overview
 This project analyzes gender disparity in Hollywood films using the Bechdel Test. The Bechdel Test is a measure of female representation in films, created by cartoonist Alison Bechdel. This analysis aims to provide insights into how gender representation has changed over time and highlight disparities within the film industry.
 
