@@ -11,7 +11,7 @@ The Bechdel Test evaluates a film based on the following criteria:
 A film passes the Bechdel Test if it meets all three criteria. While the test is a useful indicator, it does not assess the depth or quality of female characters' roles.
 
 # Project Components
- Data Collection: Sourced Bechdel Test data and additional information on film demographics.
- Data Cleaning: Processed and cleaned data to ensure consistency and accuracy.
- Analysis: Conducted exploratory data analysis to uncover patterns in gender representation.
+ Data Collection: Sourced Bechdel Test data and additional information on film demographics.\n
+ Data Cleaning: Processed and cleaned data to ensure consistency and accuracy.\n
+ Analysis: Conducted exploratory data analysis to uncover patterns in gender representation.\n
  Visualization: Created visualizations to represent the findings and trends over time.
