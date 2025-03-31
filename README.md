@@ -12,7 +12,7 @@ A film passes the Bechdel Test if it meets all three criteria. While the test is
 
 # Project Components
 
- Data Collection: Sourced Bechdel Test data and additional information on film demographics.
- Data Cleaning: Processed and cleaned data to ensure consistency and accuracy.
- Analysis: Conducted exploratory data analysis to uncover patterns in gender representation.
- Visualization: Created visualizations to represent the findings and trends over time.
+ 1) Data Collection: Sourced Bechdel Test data and additional information on film demographics.
+ 2) Data Cleaning: Processed and cleaned data to ensure consistency and accuracy.
+ 3) Analysis: Conducted exploratory data analysis to uncover patterns in gender representation.
+ 4) Visualization: Created visualizations to represent the findings and trends over time.
